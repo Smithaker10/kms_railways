@@ -18,6 +18,7 @@ This system leverages React + TypeScript + TailwindCSS with an AI-driven backend
 🛠️ Developer Friendly – ESLint + TypeScript + modular architecture
 
 📂 Project Structure
+'''
 .
 ├── main/                   # Core app logic (domain/business layer)
 ├── src/                    # React components, UI, assets
@@ -38,6 +39,7 @@ This system leverages React + TypeScript + TailwindCSS with an AI-driven backend
 │
 ├── eslint.config.js        # ESLint setup
 └── .gitignore              # Ignored files
+'''
 
 🚀 Getting Started
 1. Clone the repository
